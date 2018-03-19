@@ -11,6 +11,7 @@ namespace MojProjektZaGitVjezbu
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //jako dobar kod
         }
     }
 }
